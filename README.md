@@ -27,7 +27,7 @@
 
 |Delivery 1|Delivery 2|Delivery 3|
 |---|---|---|
-|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/work-in-progress.png height="60"/>|
+|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/completed.png height="60"/>|<img align="center" src=/icons/completed.png height="60"/>|
 
 </div>
 <div align="center">
